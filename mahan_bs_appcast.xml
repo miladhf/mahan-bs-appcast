@@ -5,12 +5,12 @@
         <item>
             <title>Version 1.2.0</title>
             <description>Minor updates and improvements.</description>
-            <enclosure url="https://github.com/miladhf/mahan-bs-appcast" sparkle:version="1.15.0" sparkle:os="android" />
+            <enclosure url="https://github.com/miladhf/mahan-bs-appcast" sparkle:version="1.3.0" sparkle:os="android" />
         </item>
         <item>
             <title>Version 1.2.0</title>
             <description>Minor updates and improvements.</description>
-            <enclosure url="https://github.com/miladhf/mahan-bs-appcast" sparkle:version="1.15.0" sparkle:os="iOS" />
+            <enclosure url="https://github.com/miladhf/mahan-bs-appcast" sparkle:version="1.3.0" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
