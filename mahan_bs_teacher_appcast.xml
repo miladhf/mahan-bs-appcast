@@ -3,10 +3,10 @@
     <channel>
         <title>Mahan BS Teacher - Appcast</title>
         <item>
-            <enclosure url="https://github.com/miladhf/mahan-bs-appcast" sparkle:version="1.1.0" sparkle:os="android" />
+            <enclosure url="https://mbs-apk.s3.ir-thr-at1.arvanstorage.ir/mahan_business_school_teacher.apk" sparkle:version="1.1.0" sparkle:os="android" />
         </item>
         <item>
-            <enclosure url="https://github.com/miladhf/mahan-bs-appcast" sparkle:version="1.1.0" sparkle:os="iOS" />
+            <enclosure url="https://mbs-apk.s3.ir-thr-at1.arvanstorage.ir/mahan_business_school_teacher.apk" sparkle:version="1.1.0" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
