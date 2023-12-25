@@ -5,7 +5,7 @@
         <item>
           <title>Version 1.15.0</title>
           <description>Minor updates and improvements.</description>
-		  <enclosure url="https://google.com" sparkle:version="1.0.4" sparkle:os="android" />
+		  <enclosure url="https://google.com" sparkle:version="1.1.4" sparkle:os="android" />
         </item>
     </channel>
 </rss>
